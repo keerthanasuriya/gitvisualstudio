@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     Webform1 added!!
+        weB2 ADDED...
     </div>
     </form>
 </body>
